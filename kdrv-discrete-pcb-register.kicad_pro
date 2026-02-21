@@ -613,6 +613,26 @@
     [
       "98492bde-9315-446b-a210-11cab9239ec3",
       "Root"
+    ],
+    [
+      "e385120b-8fa1-4e4e-aaa2-1179a8656e55",
+      "Write In"
+    ],
+    [
+      "4c439929-b211-4cf5-a032-99ce3cfacecc",
+      "Latch"
+    ],
+    [
+      "4aa86341-97e8-437d-bb00-b76e78039ee4",
+      "Read Out A"
+    ],
+    [
+      "1adea4b2-37ae-408d-acbe-835f21717ac2",
+      "Read Out B"
+    ],
+    [
+      "bf257d20-4e70-4be3-a9eb-1976459fabd8",
+      "LEDs"
     ]
   ],
   "text_variables": {}
