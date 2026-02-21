@@ -15072,7 +15072,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS04")
-		(at 265.43 129.54 0)
+		(at 265.43 158.75 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15081,7 +15081,7 @@
 		(fields_autoplaced yes)
 		(uuid "066a4956-0ae7-41e5-8f2d-b95d4fe683cb")
 		(property "Reference" "U20"
-			(at 265.43 120.65 0)
+			(at 265.43 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15089,7 +15089,7 @@
 			)
 		)
 		(property "Value" "74LS04"
-			(at 265.43 123.19 0)
+			(at 265.43 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15097,7 +15097,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 265.43 129.54 0)
+			(at 265.43 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15106,7 +15106,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 265.43 129.54 0)
+			(at 265.43 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15115,7 +15115,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 265.43 129.54 0)
+			(at 265.43 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15300,7 +15300,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS04")
-		(at 265.43 100.33 0)
+		(at 321.31 38.1 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15309,7 +15309,7 @@
 		(fields_autoplaced yes)
 		(uuid "098f9cc6-1a4b-4081-ad1d-2345d6fcdefe")
 		(property "Reference" "U20"
-			(at 265.43 91.44 0)
+			(at 321.31 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15317,7 +15317,7 @@
 			)
 		)
 		(property "Value" "74LS04"
-			(at 265.43 93.98 0)
+			(at 321.31 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15325,7 +15325,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 265.43 100.33 0)
+			(at 321.31 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15334,7 +15334,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 265.43 100.33 0)
+			(at 321.31 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15343,7 +15343,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 265.43 100.33 0)
+			(at 321.31 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17233,7 +17233,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS04")
-		(at 265.43 158.75 0)
+		(at 265.43 129.54 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17242,7 +17242,7 @@
 		(fields_autoplaced yes)
 		(uuid "67ad3695-c744-42f8-908f-63109522c42c")
 		(property "Reference" "U20"
-			(at 265.43 149.86 0)
+			(at 265.43 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17250,7 +17250,7 @@
 			)
 		)
 		(property "Value" "74LS04"
-			(at 265.43 152.4 0)
+			(at 265.43 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17258,7 +17258,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 265.43 158.75 0)
+			(at 265.43 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17267,7 +17267,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 265.43 158.75 0)
+			(at 265.43 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17276,7 +17276,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 265.43 158.75 0)
+			(at 265.43 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20117,7 +20117,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS04")
-		(at 321.31 38.1 0)
+		(at 265.43 100.33 0)
 		(unit 6)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20126,7 +20126,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1d74a13-a80f-4322-bd44-f8b5f8316f29")
 		(property "Reference" "U20"
-			(at 321.31 29.21 0)
+			(at 265.43 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20134,7 +20134,7 @@
 			)
 		)
 		(property "Value" "74LS04"
-			(at 321.31 31.75 0)
+			(at 265.43 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20142,7 +20142,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 321.31 38.1 0)
+			(at 265.43 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20151,7 +20151,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 321.31 38.1 0)
+			(at 265.43 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20160,7 +20160,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 321.31 38.1 0)
+			(at 265.43 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
