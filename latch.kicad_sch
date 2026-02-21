@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "201b0eb3-e5a1-4633-a6f0-b6ca9e87c2be")
+	(uuid "26f0de0e-52d8-41f3-9d42-e0f5839401f9")
 	(paper "USLetter")
 	(title_block
 		(title "Discrete PCB Register")
@@ -4371,7 +4371,7 @@
 		)
 		(uuid "ffaf8096-51e5-492f-88a0-3f41eb4693e5")
 	)
-	(label "latched03"
+	(label "latched3"
 		(at 64.77 34.29 0)
 		(effects
 			(font
@@ -4421,7 +4421,7 @@
 		)
 		(uuid "0819ca39-5c51-442b-a799-b5f971f8016a")
 	)
-	(label "write04"
+	(label "write4"
 		(at 39.37 36.83 180)
 		(effects
 			(font
@@ -4430,16 +4430,6 @@
 			(justify right bottom)
 		)
 		(uuid "082f4a37-a855-45dd-95a8-99d45934beaf")
-	)
-	(label "latched[63..00]"
-		(at 247.65 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "084faa09-d04d-4c56-b331-b3d407f0652f")
 	)
 	(label "write32"
 		(at 123.19 81.28 180)
@@ -4481,7 +4471,7 @@
 		)
 		(uuid "11c0f821-32e8-4230-ba15-28216a25679c")
 	)
-	(label "write07"
+	(label "write7"
 		(at 39.37 44.45 180)
 		(effects
 			(font
@@ -4531,7 +4521,7 @@
 		)
 		(uuid "20d4ddff-ca53-49f7-8ccd-331eb51a1641")
 	)
-	(label "write01"
+	(label "write1"
 		(at 39.37 29.21 180)
 		(effects
 			(font
@@ -4571,16 +4561,6 @@
 		)
 		(uuid "25d7eb2a-1f33-4eda-b0d2-9a718405548b")
 	)
-	(label "write[63..00]"
-		(at 29.21 24.13 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2612a3a7-e991-40af-a9c1-a2a8f773e492")
-	)
 	(label "latched25"
 		(at 148.59 29.21 0)
 		(effects
@@ -4610,16 +4590,6 @@
 			(justify left bottom)
 		)
 		(uuid "2aea7df7-bc4e-4d6b-9486-94af8a47de38")
-	)
-	(label "latched[63..00]"
-		(at 77.47 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2fb7cb5f-34cb-4e3f-96e6-fcd83d2fe90b")
 	)
 	(label "write48"
 		(at 209.55 26.67 180)
@@ -4661,17 +4631,7 @@
 		)
 		(uuid "33c26aac-c423-441d-abee-647bb26e4ea5")
 	)
-	(label "write[63..00]"
-		(at 29.21 133.35 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "33cd84df-77e3-4e93-b321-05543c444dd5")
-	)
-	(label "latched05"
+	(label "latched5"
 		(at 64.77 39.37 0)
 		(effects
 			(font
@@ -4701,16 +4661,6 @@
 		)
 		(uuid "347e3846-5315-45b5-a833-238a20b9cb2c")
 	)
-	(label "latched[63..00]"
-		(at 247.65 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3736d5ca-81e3-45a0-854a-49b8f6a1ae00")
-	)
 	(label "write22"
 		(at 39.37 151.13 180)
 		(effects
@@ -4730,16 +4680,6 @@
 			(justify left bottom)
 		)
 		(uuid "3aba67c1-21a4-47ff-a69f-a7e636279e8f")
-	)
-	(label "write[63..00]"
-		(at 29.21 78.74 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3c1c1313-b430-488e-978f-3045be5271fd")
 	)
 	(label "latched16"
 		(at 64.77 135.89 0)
@@ -4781,16 +4721,6 @@
 		)
 		(uuid "49b27687-a280-46ef-b228-812bdc5443d8")
 	)
-	(label "write[63..00]"
-		(at 199.39 24.13 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4b17b9f0-3377-42c3-8295-4f0412c6618b")
-	)
 	(label "write46"
 		(at 123.19 151.13 180)
 		(effects
@@ -4821,7 +4751,7 @@
 		)
 		(uuid "50eff336-4ca0-46a5-a23e-f81b370fabf2")
 	)
-	(label "write00"
+	(label "write0"
 		(at 39.37 26.67 180)
 		(effects
 			(font
@@ -4830,16 +4760,6 @@
 			(justify right bottom)
 		)
 		(uuid "51e9ef2b-0520-42f5-af20-d453286541fd")
-	)
-	(label "latched[63..00]"
-		(at 77.47 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5362f0dc-835a-4783-8142-6a54fa77ca8c")
 	)
 	(label "latched11"
 		(at 64.77 88.9 0)
@@ -4851,7 +4771,7 @@
 		)
 		(uuid "54a53ab3-f1ee-487c-a363-969354ba37df")
 	)
-	(label "latched09"
+	(label "latched9"
 		(at 64.77 83.82 0)
 		(effects
 			(font
@@ -4911,16 +4831,6 @@
 		)
 		(uuid "624dde3f-3d5c-47ca-8ccf-3603291ed985")
 	)
-	(label "latched[63..00]"
-		(at 161.29 153.67 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "63ced5ec-6113-4380-9b92-3802bb3bb77b")
-	)
 	(label "write50"
 		(at 209.55 31.75 180)
 		(effects
@@ -4951,7 +4861,7 @@
 		)
 		(uuid "66b2f0d9-79d3-45dd-8922-2d5d77514adc")
 	)
-	(label "write02"
+	(label "write2"
 		(at 39.37 31.75 180)
 		(effects
 			(font
@@ -4961,7 +4871,7 @@
 		)
 		(uuid "66b90e8d-4e91-40ac-bf63-c68b820ecbac")
 	)
-	(label "latched02"
+	(label "latched2"
 		(at 64.77 31.75 0)
 		(effects
 			(font
@@ -5000,16 +4910,6 @@
 			(justify left bottom)
 		)
 		(uuid "703d3221-11f5-4728-b618-47b2f2feef34")
-	)
-	(label "write[63..00]"
-		(at 113.03 78.74 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "70d0acef-6885-4d0e-bcac-d6f7011f71fd")
 	)
 	(label "write61"
 		(at 209.55 93.98 180)
@@ -5081,7 +4981,7 @@
 		)
 		(uuid "7d1a19ab-57f6-4256-b545-cb999ab6de71")
 	)
-	(label "write06"
+	(label "write6"
 		(at 39.37 41.91 180)
 		(effects
 			(font
@@ -5101,7 +5001,7 @@
 		)
 		(uuid "7f96c09b-317f-466a-b781-abde21c6ce30")
 	)
-	(label "latched00"
+	(label "latched0"
 		(at 64.77 26.67 0)
 		(effects
 			(font
@@ -5110,16 +5010,6 @@
 			(justify left bottom)
 		)
 		(uuid "7fa0e405-d685-4938-b7a4-40f9e452fb6f")
-	)
-	(label "write[63..00]"
-		(at 113.03 24.13 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "80784837-2c7d-46b0-80ae-ba0c365c0b0a")
 	)
 	(label "latched31"
 		(at 148.59 44.45 0)
@@ -5151,7 +5041,7 @@
 		)
 		(uuid "8272d3e3-de29-4dba-96f8-16f4f35e174c")
 	)
-	(label "latched04"
+	(label "latched4"
 		(at 64.77 36.83 0)
 		(effects
 			(font
@@ -5170,16 +5060,6 @@
 			(justify left bottom)
 		)
 		(uuid "85c6a5a6-bac4-40d1-9cc5-04de66d1275b")
-	)
-	(label "latched[63..00]"
-		(at 161.29 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "86cf8c39-e5d8-428a-b204-a4c73c785c62")
 	)
 	(label "write20"
 		(at 39.37 146.05 180)
@@ -5271,7 +5151,7 @@
 		)
 		(uuid "9ac453f6-4506-46c9-a86f-7de4aae39af6")
 	)
-	(label "write03"
+	(label "write3"
 		(at 39.37 34.29 180)
 		(effects
 			(font
@@ -5301,7 +5181,7 @@
 		)
 		(uuid "9cb98b98-ce4a-418c-8ebc-91595b7872e6")
 	)
-	(label "write05"
+	(label "write5"
 		(at 39.37 39.37 180)
 		(effects
 			(font
@@ -5351,7 +5231,7 @@
 		)
 		(uuid "a441192e-7b74-4db0-a82c-4e9fac730bd3")
 	)
-	(label "latched07"
+	(label "latched7"
 		(at 64.77 44.45 0)
 		(effects
 			(font
@@ -5371,7 +5251,7 @@
 		)
 		(uuid "a72289fc-2065-46ea-ab38-6785654d42ed")
 	)
-	(label "latched08"
+	(label "latched8"
 		(at 64.77 81.28 0)
 		(effects
 			(font
@@ -5381,7 +5261,7 @@
 		)
 		(uuid "a759e5b2-10bd-4df3-906e-a1f3e167cddc")
 	)
-	(label "latched01"
+	(label "latched1"
 		(at 64.77 29.21 0)
 		(effects
 			(font
@@ -5390,16 +5270,6 @@
 			(justify left bottom)
 		)
 		(uuid "ad32355a-e827-43cc-a867-273554902b6c")
-	)
-	(label "latched[63..00]"
-		(at 161.29 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ad67bdbc-e1df-4dbb-a83b-38f14e98216f")
 	)
 	(label "write49"
 		(at 209.55 29.21 180)
@@ -5421,7 +5291,7 @@
 		)
 		(uuid "b369997d-5dd5-4792-91da-31c1ec69d413")
 	)
-	(label "write09"
+	(label "write9"
 		(at 39.37 83.82 180)
 		(effects
 			(font
@@ -5431,7 +5301,7 @@
 		)
 		(uuid "b3d5c454-3631-4162-8b2a-cb59a0996f70")
 	)
-	(label "write08"
+	(label "write8"
 		(at 39.37 81.28 180)
 		(effects
 			(font
@@ -5511,16 +5381,6 @@
 		)
 		(uuid "c5696013-297c-40ee-b23f-24eb500128e7")
 	)
-	(label "write[63..00]"
-		(at 113.03 133.35 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c5d877c1-cee9-43e4-ade2-3dc0ef0a8b7d")
-	)
 	(label "latched21"
 		(at 64.77 148.59 0)
 		(effects
@@ -5580,26 +5440,6 @@
 			(justify right bottom)
 		)
 		(uuid "cc2a3d0e-b44a-40a3-a4e0-9dbd4c028da4")
-	)
-	(label "latched[63..00]"
-		(at 77.47 153.67 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ccb33535-c0a0-4438-ae54-c4879b77b5bd")
-	)
-	(label "write[63..00]"
-		(at 199.39 78.74 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d16cde8d-d8e8-4b6a-a75f-9d4238f5b35a")
 	)
 	(label "latched61"
 		(at 234.95 93.98 0)
@@ -5701,7 +5541,7 @@
 		)
 		(uuid "efab242d-cc79-4747-ba24-78462e0cca70")
 	)
-	(label "latched06"
+	(label "latched6"
 		(at 64.77 41.91 0)
 		(effects
 			(font
@@ -5833,7 +5673,7 @@
 			)
 		)
 	)
-	(global_label "~{RST}"
+	(global_label "~{ZRST}"
 		(shape input)
 		(at 123.19 52.07 180)
 		(fields_autoplaced yes)
@@ -5845,7 +5685,7 @@
 		)
 		(uuid "10c5f05f-2bb3-4434-b4bb-2e0acc9ffae3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.7577 52.07 0)
+			(at 115.5482 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5855,7 +5695,7 @@
 			)
 		)
 	)
-	(global_label "latched[63..00]"
+	(global_label "latched[63..0]"
 		(shape input)
 		(at 161.29 46.99 0)
 		(fields_autoplaced yes)
@@ -5867,7 +5707,7 @@
 		)
 		(uuid "17dd94dc-1404-40e2-9d9a-d21ab729f882")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 179.0313 46.99 0)
+			(at 177.8218 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5877,7 +5717,7 @@
 			)
 		)
 	)
-	(global_label "latched[63..00]"
+	(global_label "latched[63..0]"
 		(shape input)
 		(at 247.65 101.6 0)
 		(fields_autoplaced yes)
@@ -5889,7 +5729,7 @@
 		)
 		(uuid "21dab8da-eff1-411f-b2d6-9103f06260ff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 265.3913 101.6 0)
+			(at 264.1818 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5899,7 +5739,7 @@
 			)
 		)
 	)
-	(global_label "~{RST}"
+	(global_label "~{ZRST}"
 		(shape input)
 		(at 123.19 161.29 180)
 		(fields_autoplaced yes)
@@ -5911,7 +5751,7 @@
 		)
 		(uuid "256e3ee9-7ad6-40ee-893c-47b09aa54d09")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.7577 161.29 0)
+			(at 115.5482 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5921,9 +5761,9 @@
 			)
 		)
 	)
-	(global_label "write[63..00]"
+	(global_label "write[63..0]"
 		(shape input)
-		(at 29.21 135.89 180)
+		(at 29.21 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5933,7 +5773,7 @@
 		)
 		(uuid "2a9732f6-e045-4c00-9fff-60cb659ff735")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 13.948 135.89 0)
+			(at 15.1575 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5943,7 +5783,7 @@
 			)
 		)
 	)
-	(global_label "latched[63..00]"
+	(global_label "latched[63..0]"
 		(shape input)
 		(at 161.29 101.6 0)
 		(fields_autoplaced yes)
@@ -5955,7 +5795,7 @@
 		)
 		(uuid "2c19727e-7b47-46c3-8983-cf0977d102df")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 179.0313 101.6 0)
+			(at 177.8218 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5965,31 +5805,9 @@
 			)
 		)
 	)
-	(global_label "write[63..00]"
+	(global_label "write[63..0]"
 		(shape input)
-		(at 29.21 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2f93cebd-2940-4922-a289-94a481b7e048")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 13.948 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "write[63..00]"
-		(shape input)
-		(at 113.03 81.28 180)
+		(at 113.03 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5999,7 +5817,7 @@
 		)
 		(uuid "3bd10ba4-e00f-41c7-9556-71cf6444e98b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.768 81.28 0)
+			(at 98.9775 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6009,7 +5827,7 @@
 			)
 		)
 	)
-	(global_label "latched[63..00]"
+	(global_label "latched[63..0]"
 		(shape input)
 		(at 247.65 46.99 0)
 		(fields_autoplaced yes)
@@ -6021,7 +5839,7 @@
 		)
 		(uuid "52f541fc-fce5-43a3-9f0a-a1df38157fba")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 265.3913 46.99 0)
+			(at 264.1818 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6031,9 +5849,9 @@
 			)
 		)
 	)
-	(global_label "write[63..00]"
+	(global_label "write[63..0]"
 		(shape input)
-		(at 29.21 26.67 180)
+		(at 29.21 24.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6043,7 +5861,7 @@
 		)
 		(uuid "56717680-b428-4597-80f0-31dbe371a7d1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 13.948 26.67 0)
+			(at 15.1575 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6053,7 +5871,7 @@
 			)
 		)
 	)
-	(global_label "latched[63..00]"
+	(global_label "latched[63..0]"
 		(shape input)
 		(at 161.29 156.21 0)
 		(fields_autoplaced yes)
@@ -6065,7 +5883,7 @@
 		)
 		(uuid "575029ff-12ce-49a1-95b3-561fb1e11037")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 179.0313 156.21 0)
+			(at 177.8218 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6075,7 +5893,7 @@
 			)
 		)
 	)
-	(global_label "latched[63..00]"
+	(global_label "latched[63..0]"
 		(shape input)
 		(at 77.47 46.99 0)
 		(fields_autoplaced yes)
@@ -6087,7 +5905,7 @@
 		)
 		(uuid "5f956122-eae4-453a-b89a-9e0a55e4d391")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.2113 46.99 0)
+			(at 94.0018 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6097,7 +5915,7 @@
 			)
 		)
 	)
-	(global_label "~{RST}"
+	(global_label "~{ZRST}"
 		(shape input)
 		(at 209.55 52.07 180)
 		(fields_autoplaced yes)
@@ -6109,7 +5927,7 @@
 		)
 		(uuid "6393c1b2-2eb3-421e-af53-d00b707d3952")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.1177 52.07 0)
+			(at 201.9082 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6119,7 +5937,7 @@
 			)
 		)
 	)
-	(global_label "latched[63..00]"
+	(global_label "latched[63..0]"
 		(shape input)
 		(at 77.47 156.21 0)
 		(fields_autoplaced yes)
@@ -6131,7 +5949,7 @@
 		)
 		(uuid "68c612b9-cfaf-4037-99e0-0d117cb17e3f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.2113 156.21 0)
+			(at 94.0018 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6163,9 +5981,9 @@
 			)
 		)
 	)
-	(global_label "write[63..00]"
+	(global_label "write[63..0]"
 		(shape input)
-		(at 199.39 26.67 180)
+		(at 199.39 24.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6175,7 +5993,7 @@
 		)
 		(uuid "70742515-5300-4361-98b1-d5f2906e3408")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.128 26.67 0)
+			(at 185.3375 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6185,7 +6003,7 @@
 			)
 		)
 	)
-	(global_label "~{RST}"
+	(global_label "~{ZRST}"
 		(shape input)
 		(at 39.37 52.07 180)
 		(fields_autoplaced yes)
@@ -6197,7 +6015,7 @@
 		)
 		(uuid "7443d020-4446-481f-855d-5a695c333ace")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.9377 52.07 0)
+			(at 31.7282 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6251,7 +6069,7 @@
 			)
 		)
 	)
-	(global_label "~{RST}"
+	(global_label "~{ZRST}"
 		(shape input)
 		(at 39.37 106.68 180)
 		(fields_autoplaced yes)
@@ -6263,7 +6081,7 @@
 		)
 		(uuid "8452536d-eba6-427a-8cae-a64c14634ab0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.9377 106.68 0)
+			(at 31.7282 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6273,7 +6091,7 @@
 			)
 		)
 	)
-	(global_label "latched[63..00]"
+	(global_label "latched[63..0]"
 		(shape input)
 		(at 77.47 101.6 0)
 		(fields_autoplaced yes)
@@ -6285,7 +6103,7 @@
 		)
 		(uuid "89fc5137-2f39-4368-8cad-1e1b613a63f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.2113 101.6 0)
+			(at 94.0018 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6295,9 +6113,9 @@
 			)
 		)
 	)
-	(global_label "write[63..00]"
+	(global_label "write[63..0]"
 		(shape input)
-		(at 199.39 81.28 180)
+		(at 199.39 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6307,7 +6125,29 @@
 		)
 		(uuid "8c362f15-25ce-4d09-95c1-126b37bed375")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.128 81.28 0)
+			(at 185.3375 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "write[63..0]"
+		(shape input)
+		(at 29.21 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8edf07d7-99f5-4069-85b0-6bb69a2d9f7b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 15.1575 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6361,7 +6201,7 @@
 			)
 		)
 	)
-	(global_label "~{RST}"
+	(global_label "~{ZRST}"
 		(shape input)
 		(at 209.55 106.68 180)
 		(fields_autoplaced yes)
@@ -6373,7 +6213,7 @@
 		)
 		(uuid "b8b7a0b9-2c2d-4a02-84fe-4b3a69444dbb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.1177 106.68 0)
+			(at 201.9082 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6383,7 +6223,7 @@
 			)
 		)
 	)
-	(global_label "~{RST}"
+	(global_label "~{ZRST}"
 		(shape input)
 		(at 39.37 161.29 180)
 		(fields_autoplaced yes)
@@ -6395,7 +6235,7 @@
 		)
 		(uuid "cb16efa0-d8c4-4ca3-9b21-5131dd188964")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.9377 161.29 0)
+			(at 31.7282 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6405,7 +6245,7 @@
 			)
 		)
 	)
-	(global_label "~{RST}"
+	(global_label "~{ZRST}"
 		(shape input)
 		(at 123.19 106.68 180)
 		(fields_autoplaced yes)
@@ -6417,7 +6257,7 @@
 		)
 		(uuid "cec2d558-23a0-4c32-9e71-39bc0fc38d5c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.7577 106.68 0)
+			(at 115.5482 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6427,9 +6267,9 @@
 			)
 		)
 	)
-	(global_label "write[63..00]"
+	(global_label "write[63..0]"
 		(shape input)
-		(at 113.03 26.67 180)
+		(at 113.03 24.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6439,7 +6279,7 @@
 		)
 		(uuid "d1402b0b-49c4-4431-9b98-58df255df61a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.768 26.67 0)
+			(at 98.9775 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6493,9 +6333,9 @@
 			)
 		)
 	)
-	(global_label "write[63..00]"
+	(global_label "write[63..0]"
 		(shape input)
-		(at 113.03 135.89 180)
+		(at 113.03 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6505,7 +6345,7 @@
 		)
 		(uuid "dba0f111-58bf-4d44-bdc1-38078ce5e785")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.768 135.89 0)
+			(at 98.9775 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6525,7 +6365,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04f299b8-6860-43d9-bf6b-34cad347acdb")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR025"
 			(at 83.82 92.71 0)
 			(effects
 				(font
@@ -6575,7 +6415,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR014")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -6591,7 +6431,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07709ec0-f29e-4879-8aea-3fadd40bfe78")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR034"
 			(at 167.64 27.94 0)
 			(effects
 				(font
@@ -6641,7 +6481,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR021")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -6657,7 +6497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1987d0a2-0761-46af-b791-ab58a291d733")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR021"
 			(at 52.07 175.26 0)
 			(effects
 				(font
@@ -6707,7 +6547,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR016")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -6723,7 +6563,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b206286-8e19-48a6-9aaf-be60f25c1939")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR041"
 			(at 222.25 66.04 0)
 			(effects
 				(font
@@ -6773,7 +6613,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR032")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -6789,7 +6629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21dc4b96-2b58-44e0-9df0-9e4af10e739a")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR022"
 			(at 83.82 27.94 0)
 			(effects
 				(font
@@ -6839,7 +6679,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR09")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -6855,7 +6695,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25a423ae-e82c-49ff-bd8d-16482ba200e2")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR016"
 			(at 52.07 22.86 0)
 			(effects
 				(font
@@ -6905,7 +6745,7 @@
 		(instances
 			(project ""
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR07")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -6921,7 +6761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "297a3f8e-e597-4fe8-9150-850e7ae17d0e")
-		(property "Reference" "C1"
+		(property "Reference" "C4"
 			(at 87.63 26.6699 0)
 			(effects
 				(font
@@ -6939,7 +6779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 84.7852 31.75 0)
 			(effects
 				(font
@@ -6975,7 +6815,7 @@
 		(instances
 			(project ""
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "C1")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -6991,7 +6831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b53383a-e5a7-4920-8f66-3b9886f7ef99")
-		(property "Reference" "C5"
+		(property "Reference" "C8"
 			(at 171.45 81.2799 0)
 			(effects
 				(font
@@ -7009,7 +6849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 168.6052 86.36 0)
 			(effects
 				(font
@@ -7045,7 +6885,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "C5")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -7061,7 +6901,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c83682c-ed99-4778-9b40-3e30239dc237")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR033"
 			(at 135.89 175.26 0)
 			(effects
 				(font
@@ -7111,7 +6951,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR028")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -7127,7 +6967,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f23621e-7a88-4360-ad53-3c0a5025aa76")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR032"
 			(at 135.89 132.08 0)
 			(effects
 				(font
@@ -7177,7 +7017,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR027")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -7193,7 +7033,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "442ca239-f03d-4951-81c4-c5419a455292")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR020"
 			(at 52.07 132.08 0)
 			(effects
 				(font
@@ -7243,7 +7083,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR015")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -7259,7 +7099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a7794c2-70cc-4222-863d-e42317f77400")
-		(property "Reference" "C8"
+		(property "Reference" "C11"
 			(at 257.81 81.2799 0)
 			(effects
 				(font
@@ -7277,7 +7117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 254.9652 86.36 0)
 			(effects
 				(font
@@ -7313,7 +7153,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "C8")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -7329,7 +7169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b0ae703-d852-408b-b7b8-088a31c54cbd")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR017"
 			(at 52.07 66.04 0)
 			(effects
 				(font
@@ -7379,7 +7219,7 @@
 		(instances
 			(project ""
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR08")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -7395,7 +7235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4df09774-660d-40ee-900c-d2d38c00a649")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR036"
 			(at 167.64 82.55 0)
 			(effects
 				(font
@@ -7445,7 +7285,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR025")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -7461,7 +7301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e9c33e3-04c1-45f8-91f5-a1785959dd57")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 54.2133 128.27 0)
 			(effects
 				(font
@@ -7479,7 +7319,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 52.07 148.59 0)
 			(effects
 				(font
@@ -7569,7 +7409,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "U3")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -7585,7 +7425,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50eca647-5966-4b6f-99a5-f357017e671d")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR024"
 			(at 83.82 82.55 0)
 			(effects
 				(font
@@ -7635,7 +7475,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR013")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -7651,7 +7491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58f9689c-a155-4c5d-ae33-a322c6d61eea")
-		(property "Reference" "C3"
+		(property "Reference" "C6"
 			(at 87.63 135.8899 0)
 			(effects
 				(font
@@ -7669,7 +7509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 84.7852 140.97 0)
 			(effects
 				(font
@@ -7705,7 +7545,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "C3")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -7721,7 +7561,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5925cc77-875d-442c-a5d0-d0c0189faf82")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR039"
 			(at 167.64 147.32 0)
 			(effects
 				(font
@@ -7771,7 +7611,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR030")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -7787,7 +7627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a93cd91-969e-4860-a6d5-f46becc711de")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR030"
 			(at 135.89 77.47 0)
 			(effects
 				(font
@@ -7837,7 +7677,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR023")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -7853,7 +7693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d128293-49df-4ed8-b1cb-a4ceb464e256")
-		(property "Reference" "C2"
+		(property "Reference" "C5"
 			(at 87.63 81.2799 0)
 			(effects
 				(font
@@ -7871,7 +7711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 84.7852 86.36 0)
 			(effects
 				(font
@@ -7907,7 +7747,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "C2")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -7923,7 +7763,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d34a53f-1fc0-4422-af10-debc159d0ff4")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR026"
 			(at 83.82 137.16 0)
 			(effects
 				(font
@@ -7973,7 +7813,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR017")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -7989,7 +7829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6fc0d145-c73e-412b-a5d8-de39999da82b")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR042"
 			(at 222.25 77.47 0)
 			(effects
 				(font
@@ -8039,7 +7879,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR035")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -8055,7 +7895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "726e07f9-9d14-4a83-89cc-f052d15afde6")
-		(property "Reference" "C6"
+		(property "Reference" "C9"
 			(at 171.45 135.8899 0)
 			(effects
 				(font
@@ -8073,7 +7913,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 168.6052 140.97 0)
 			(effects
 				(font
@@ -8109,7 +7949,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "C6")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -8125,7 +7965,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73641e83-f615-45a2-a411-80270b84c85d")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR046"
 			(at 254 82.55 0)
 			(effects
 				(font
@@ -8175,7 +8015,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR037")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -8191,7 +8031,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76ab803e-410c-4602-afdc-9d019c1e7a99")
-		(property "Reference" "U2"
+		(property "Reference" "U5"
 			(at 54.2133 73.66 0)
 			(effects
 				(font
@@ -8209,7 +8049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 52.07 93.98 0)
 			(effects
 				(font
@@ -8299,7 +8139,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "U2")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -8315,7 +8155,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "783b40c9-33ac-4f90-8a8f-f6ba89c754ad")
-		(property "Reference" "U4"
+		(property "Reference" "U7"
 			(at 138.0333 19.05 0)
 			(effects
 				(font
@@ -8333,7 +8173,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 135.89 39.37 0)
 			(effects
 				(font
@@ -8423,7 +8263,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "U4")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -8439,7 +8279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c09ce3c-a93e-4f80-990a-35b999a54394")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR035"
 			(at 167.64 38.1 0)
 			(effects
 				(font
@@ -8489,7 +8329,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR022")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -8505,7 +8345,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80d46295-8a28-4560-9b82-d6f17827cace")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR031"
 			(at 135.89 120.65 0)
 			(effects
 				(font
@@ -8555,7 +8395,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR024")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -8571,7 +8411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9208f413-2606-4354-ac11-97bb87aa0937")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR040"
 			(at 222.25 22.86 0)
 			(effects
 				(font
@@ -8621,7 +8461,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR031")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -8637,7 +8477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "968c227f-a323-48d7-a292-ed5a37a511ac")
-		(property "Reference" "U8"
+		(property "Reference" "U11"
 			(at 224.3933 73.66 0)
 			(effects
 				(font
@@ -8655,7 +8495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 222.25 93.98 0)
 			(effects
 				(font
@@ -8745,7 +8585,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "U8")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -8761,7 +8601,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d062b5c-cb2f-4915-b9bf-1c0707818a7a")
-		(property "Reference" "U6"
+		(property "Reference" "U9"
 			(at 138.0333 128.27 0)
 			(effects
 				(font
@@ -8779,7 +8619,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 135.89 148.59 0)
 			(effects
 				(font
@@ -8869,7 +8709,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "U6")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -8885,7 +8725,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ff5c83d-f010-4697-95f5-1f68e9bd8d7e")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR047"
 			(at 254 92.71 0)
 			(effects
 				(font
@@ -8935,7 +8775,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR038")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -8951,7 +8791,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5611ef4-e0b1-4234-853d-beaacb4fbcc1")
-		(property "Reference" "U5"
+		(property "Reference" "U8"
 			(at 138.0333 73.66 0)
 			(effects
 				(font
@@ -8969,7 +8809,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 135.89 93.98 0)
 			(effects
 				(font
@@ -9059,7 +8899,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "U5")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -9075,7 +8915,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a67fe372-c913-4462-937c-be098d88ba10")
-		(property "Reference" "U7"
+		(property "Reference" "U10"
 			(at 224.3933 19.05 0)
 			(effects
 				(font
@@ -9093,7 +8933,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 222.25 39.37 0)
 			(effects
 				(font
@@ -9183,7 +9023,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "U7")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -9199,7 +9039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad787ea9-ba23-4588-8eb2-0955bbb6675c")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR044"
 			(at 254 27.94 0)
 			(effects
 				(font
@@ -9249,7 +9089,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR033")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -9265,7 +9105,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbef104b-3dd1-42e7-9eba-e951a7ad2023")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR027"
 			(at 83.82 147.32 0)
 			(effects
 				(font
@@ -9315,7 +9155,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR018")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -9331,7 +9171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4a51161-7602-41f8-80cd-824d23297373")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR023"
 			(at 83.82 38.1 0)
 			(effects
 				(font
@@ -9381,7 +9221,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR010")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -9397,7 +9237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c96830c4-76ef-4c7b-acab-ba4cc7418cb6")
-		(property "Reference" "U1"
+		(property "Reference" "U4"
 			(at 54.2133 19.05 0)
 			(effects
 				(font
@@ -9415,7 +9255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
 			(at 52.07 39.37 0)
 			(effects
 				(font
@@ -9505,7 +9345,7 @@
 		(instances
 			(project ""
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "U1")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -9521,7 +9361,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c980be45-a930-4155-a910-650272ab13cb")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR029"
 			(at 135.89 66.04 0)
 			(effects
 				(font
@@ -9571,7 +9411,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR020")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -9587,7 +9427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbafed41-f75b-4f37-a174-23d473c58b37")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR045"
 			(at 254 38.1 0)
 			(effects
 				(font
@@ -9637,7 +9477,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR034")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -9653,7 +9493,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcc6d5de-73a1-428b-8043-86d11a53a3fa")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR043"
 			(at 222.25 120.65 0)
 			(effects
 				(font
@@ -9703,7 +9543,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR036")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -9719,7 +9559,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e255494e-2cbc-42f0-ac29-7279cface987")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR019"
 			(at 52.07 120.65 0)
 			(effects
 				(font
@@ -9769,7 +9609,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR012")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -9785,7 +9625,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e678b338-c64f-4e9e-aae5-d3939ee1cd9a")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR028"
 			(at 135.89 22.86 0)
 			(effects
 				(font
@@ -9835,7 +9675,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR019")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -9851,7 +9691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee421853-d564-4141-bd11-9fa5d8735824")
-		(property "Reference" "C4"
+		(property "Reference" "C7"
 			(at 171.45 26.6699 0)
 			(effects
 				(font
@@ -9869,7 +9709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 168.6052 31.75 0)
 			(effects
 				(font
@@ -9905,7 +9745,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "C4")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -9921,7 +9761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f402821e-8b76-466f-bf09-5c67f3d5d91e")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR018"
 			(at 52.07 77.47 0)
 			(effects
 				(font
@@ -9971,7 +9811,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR011")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -9987,7 +9827,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f76131fe-e2b4-4691-a778-ec05043f9b0f")
-		(property "Reference" "C7"
+		(property "Reference" "C10"
 			(at 257.81 26.6699 0)
 			(effects
 				(font
@@ -10005,7 +9845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 254.9652 31.75 0)
 			(effects
 				(font
@@ -10041,7 +9881,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "C7")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -10057,7 +9897,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd5267f6-9aaa-467f-bb72-354ba0dc51d7")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR038"
 			(at 167.64 137.16 0)
 			(effects
 				(font
@@ -10107,7 +9947,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR029")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -10123,7 +9963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd5c8078-34a5-4cf1-b28e-7f9a9e6968ae")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR037"
 			(at 167.64 92.71 0)
 			(effects
 				(font
@@ -10173,7 +10013,7 @@
 		(instances
 			(project "kdrv-discrete-pcb-register"
 				(path "/98492bde-9315-446b-a210-11cab9239ec3/4c439929-b211-4cf5-a032-99ce3cfacecc"
-					(reference "#PWR026")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
