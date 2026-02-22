@@ -4372,7 +4372,7 @@
 		(uuid "ffaf8096-51e5-492f-88a0-3f41eb4693e5")
 	)
 	(label "latched3"
-		(at 64.77 34.29 0)
+		(at 64.77 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4382,7 +4382,7 @@
 		(uuid "001a9f06-658b-44f4-9026-91f72b85caff")
 	)
 	(label "latched52"
-		(at 234.95 36.83 0)
+		(at 234.95 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4392,7 +4392,7 @@
 		(uuid "009cdf5d-ee8c-49c3-8af3-e56a4307f3aa")
 	)
 	(label "write59"
-		(at 209.55 88.9 180)
+		(at 209.55 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4402,7 +4402,7 @@
 		(uuid "0176c3ee-daa3-429a-9004-851d8984e89c")
 	)
 	(label "latched34"
-		(at 148.59 86.36 0)
+		(at 148.59 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4412,7 +4412,7 @@
 		(uuid "042d4088-664e-4b0f-b4ed-b7636bd8a30f")
 	)
 	(label "latched49"
-		(at 234.95 29.21 0)
+		(at 234.95 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4422,7 +4422,7 @@
 		(uuid "0819ca39-5c51-442b-a799-b5f971f8016a")
 	)
 	(label "write4"
-		(at 39.37 36.83 180)
+		(at 39.37 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4432,7 +4432,7 @@
 		(uuid "082f4a37-a855-45dd-95a8-99d45934beaf")
 	)
 	(label "write32"
-		(at 123.19 81.28 180)
+		(at 123.19 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4442,7 +4442,7 @@
 		(uuid "0975aac9-bae9-48ac-9a12-cd5885095977")
 	)
 	(label "write45"
-		(at 123.19 148.59 180)
+		(at 123.19 138.43 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4452,7 +4452,7 @@
 		(uuid "09f1cb7b-d17f-48c0-aca3-85d6cb68d5a9")
 	)
 	(label "write16"
-		(at 39.37 135.89 180)
+		(at 39.37 143.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4462,7 +4462,7 @@
 		(uuid "0c802eb5-5eca-46e4-8d75-5625c482521f")
 	)
 	(label "write47"
-		(at 123.19 153.67 180)
+		(at 123.19 143.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4472,7 +4472,7 @@
 		(uuid "11c0f821-32e8-4230-ba15-28216a25679c")
 	)
 	(label "write7"
-		(at 39.37 44.45 180)
+		(at 39.37 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4482,7 +4482,7 @@
 		(uuid "135406a1-9b0f-4dcc-93c3-98d7111ecfc0")
 	)
 	(label "latched45"
-		(at 148.59 148.59 0)
+		(at 148.59 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4492,7 +4492,7 @@
 		(uuid "16e15cf0-5dc5-4649-a509-5fff293f7b83")
 	)
 	(label "latched33"
-		(at 148.59 83.82 0)
+		(at 148.59 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4502,7 +4502,7 @@
 		(uuid "1b008e03-bc00-481d-a55c-e9534ca333cb")
 	)
 	(label "write27"
-		(at 123.19 34.29 180)
+		(at 123.19 26.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4512,7 +4512,7 @@
 		(uuid "1def9a5b-d18b-41eb-a5bc-6af3cdb79388")
 	)
 	(label "latched56"
-		(at 234.95 81.28 0)
+		(at 234.95 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4522,7 +4522,7 @@
 		(uuid "20d4ddff-ca53-49f7-8ccd-331eb51a1641")
 	)
 	(label "write1"
-		(at 39.37 29.21 180)
+		(at 39.37 31.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4532,7 +4532,7 @@
 		(uuid "21a0a20a-03c7-43f5-9fdc-4c0cd2c34b57")
 	)
 	(label "write51"
-		(at 209.55 34.29 180)
+		(at 209.55 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4542,7 +4542,7 @@
 		(uuid "23bfaecc-fc40-4605-8264-3fed340c9bb3")
 	)
 	(label "latched30"
-		(at 148.59 41.91 0)
+		(at 148.59 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4552,7 +4552,7 @@
 		(uuid "250b811f-3317-48de-9c7f-0413d77d30a4")
 	)
 	(label "write56"
-		(at 209.55 81.28 180)
+		(at 209.55 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4562,7 +4562,7 @@
 		(uuid "25d7eb2a-1f33-4eda-b0d2-9a718405548b")
 	)
 	(label "latched25"
-		(at 148.59 29.21 0)
+		(at 148.59 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4572,7 +4572,7 @@
 		(uuid "278f4b3c-8a20-4f8f-9d70-4e563f8f8878")
 	)
 	(label "latched44"
-		(at 148.59 146.05 0)
+		(at 148.59 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4582,7 +4582,7 @@
 		(uuid "2ad00fab-e371-4343-af3d-96ab552f31c9")
 	)
 	(label "latched39"
-		(at 148.59 99.06 0)
+		(at 148.59 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4592,7 +4592,7 @@
 		(uuid "2aea7df7-bc4e-4d6b-9486-94af8a47de38")
 	)
 	(label "write48"
-		(at 209.55 26.67 180)
+		(at 209.55 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4602,7 +4602,7 @@
 		(uuid "325b4539-1480-43ce-a1ec-c3b0f0ede7c5")
 	)
 	(label "latched53"
-		(at 234.95 39.37 0)
+		(at 234.95 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4612,7 +4612,7 @@
 		(uuid "332f3cdf-3933-4b2c-8a67-0b210d0fc056")
 	)
 	(label "latched22"
-		(at 64.77 151.13 0)
+		(at 64.77 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4622,7 +4622,7 @@
 		(uuid "339a73ec-5dbc-4c54-a459-2421d35b5821")
 	)
 	(label "write35"
-		(at 123.19 88.9 180)
+		(at 123.19 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4632,7 +4632,7 @@
 		(uuid "33c26aac-c423-441d-abee-647bb26e4ea5")
 	)
 	(label "latched5"
-		(at 64.77 39.37 0)
+		(at 64.77 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4642,7 +4642,7 @@
 		(uuid "33fa7c58-8dca-438e-a37e-0c98c316073c")
 	)
 	(label "write15"
-		(at 39.37 99.06 180)
+		(at 39.37 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4652,7 +4652,7 @@
 		(uuid "341b2e7a-c65b-4d43-b40e-cd90df36f82e")
 	)
 	(label "write40"
-		(at 123.19 135.89 180)
+		(at 123.19 146.05 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4662,7 +4662,7 @@
 		(uuid "347e3846-5315-45b5-a833-238a20b9cb2c")
 	)
 	(label "write22"
-		(at 39.37 151.13 180)
+		(at 39.37 148.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4672,7 +4672,7 @@
 		(uuid "37b1b372-8b3a-4965-aa5c-9e27389f202f")
 	)
 	(label "latched60"
-		(at 234.95 91.44 0)
+		(at 234.95 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4682,7 +4682,7 @@
 		(uuid "3aba67c1-21a4-47ff-a69f-a7e636279e8f")
 	)
 	(label "latched16"
-		(at 64.77 135.89 0)
+		(at 64.77 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4692,7 +4692,7 @@
 		(uuid "418db8d3-038d-4f74-9ea9-476d0b8608cd")
 	)
 	(label "latched54"
-		(at 234.95 41.91 0)
+		(at 234.95 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4702,7 +4702,7 @@
 		(uuid "44b5258e-8c65-4921-8a51-7b89de0b8641")
 	)
 	(label "latched63"
-		(at 234.95 99.06 0)
+		(at 234.95 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4712,7 +4712,7 @@
 		(uuid "4753a382-dc72-4320-9d2a-b0aea3aab004")
 	)
 	(label "latched62"
-		(at 234.95 96.52 0)
+		(at 234.95 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4722,7 +4722,7 @@
 		(uuid "49b27687-a280-46ef-b228-812bdc5443d8")
 	)
 	(label "write46"
-		(at 123.19 151.13 180)
+		(at 123.19 140.97 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4732,7 +4732,7 @@
 		(uuid "4d25538b-009a-4919-961c-42d5c6b28356")
 	)
 	(label "latched15"
-		(at 64.77 99.06 0)
+		(at 64.77 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4742,7 +4742,7 @@
 		(uuid "4ee572ec-3f10-4d91-ae47-82a9bcd08a5b")
 	)
 	(label "latched47"
-		(at 148.59 153.67 0)
+		(at 148.59 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4752,7 +4752,7 @@
 		(uuid "50eff336-4ca0-46a5-a23e-f81b370fabf2")
 	)
 	(label "write0"
-		(at 39.37 26.67 180)
+		(at 39.37 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4762,7 +4762,7 @@
 		(uuid "51e9ef2b-0520-42f5-af20-d453286541fd")
 	)
 	(label "latched11"
-		(at 64.77 88.9 0)
+		(at 64.77 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4772,7 +4772,7 @@
 		(uuid "54a53ab3-f1ee-487c-a363-969354ba37df")
 	)
 	(label "latched9"
-		(at 64.77 83.82 0)
+		(at 64.77 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4782,7 +4782,7 @@
 		(uuid "57dce17b-db5f-46e9-bed2-79547d2be24b")
 	)
 	(label "latched51"
-		(at 234.95 34.29 0)
+		(at 234.95 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4792,7 +4792,7 @@
 		(uuid "5cb62b0f-0883-44f3-8b10-0218afefc628")
 	)
 	(label "write26"
-		(at 123.19 31.75 180)
+		(at 123.19 29.21 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4802,7 +4802,7 @@
 		(uuid "5e06fd5f-cd80-48eb-86dd-5b3ef7547563")
 	)
 	(label "latched46"
-		(at 148.59 151.13 0)
+		(at 148.59 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4812,7 +4812,7 @@
 		(uuid "5edbe5fb-f1fc-4ea7-b68f-1198ba66c2ea")
 	)
 	(label "latched36"
-		(at 148.59 91.44 0)
+		(at 148.59 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4822,7 +4822,7 @@
 		(uuid "5f331893-911c-444f-b91f-0d8f8bc07275")
 	)
 	(label "latched59"
-		(at 234.95 88.9 0)
+		(at 234.95 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4832,7 +4832,7 @@
 		(uuid "624dde3f-3d5c-47ca-8ccf-3603291ed985")
 	)
 	(label "write50"
-		(at 209.55 31.75 180)
+		(at 209.55 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4842,7 +4842,7 @@
 		(uuid "64267988-9176-4a93-9d09-a228e5f9b9b7")
 	)
 	(label "latched29"
-		(at 148.59 39.37 0)
+		(at 148.59 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4852,7 +4852,7 @@
 		(uuid "65566412-664b-4e80-b817-949bae40f79f")
 	)
 	(label "write23"
-		(at 39.37 153.67 180)
+		(at 39.37 146.05 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4862,7 +4862,7 @@
 		(uuid "66b2f0d9-79d3-45dd-8922-2d5d77514adc")
 	)
 	(label "write2"
-		(at 39.37 31.75 180)
+		(at 39.37 29.21 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4872,7 +4872,7 @@
 		(uuid "66b90e8d-4e91-40ac-bf63-c68b820ecbac")
 	)
 	(label "latched2"
-		(at 64.77 31.75 0)
+		(at 64.77 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4882,7 +4882,7 @@
 		(uuid "6752374a-faf0-4bf3-a24b-196464e6d47d")
 	)
 	(label "latched26"
-		(at 148.59 31.75 0)
+		(at 148.59 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4892,7 +4892,7 @@
 		(uuid "6c3d5a27-7b74-4e65-8e97-0bb58d51d353")
 	)
 	(label "write24"
-		(at 123.19 26.67 180)
+		(at 123.19 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4902,7 +4902,7 @@
 		(uuid "6dd8ed41-b10a-48d0-b7a2-a25443655729")
 	)
 	(label "latched58"
-		(at 234.95 86.36 0)
+		(at 234.95 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4912,7 +4912,7 @@
 		(uuid "703d3221-11f5-4728-b618-47b2f2feef34")
 	)
 	(label "write61"
-		(at 209.55 93.98 180)
+		(at 209.55 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4922,7 +4922,7 @@
 		(uuid "736c4cf9-80ab-46af-b55a-6ca73e8fa18f")
 	)
 	(label "latched23"
-		(at 64.77 153.67 0)
+		(at 64.77 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4932,7 +4932,7 @@
 		(uuid "754c54f7-de72-4556-9bd0-a946ab6e2655")
 	)
 	(label "write31"
-		(at 123.19 44.45 180)
+		(at 123.19 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4942,7 +4942,7 @@
 		(uuid "75fc9022-5ede-41b5-9170-573fdb34b8a0")
 	)
 	(label "latched24"
-		(at 148.59 26.67 0)
+		(at 148.59 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4952,7 +4952,7 @@
 		(uuid "7645e1a2-3706-42bb-a5ac-b8436f17f8c5")
 	)
 	(label "write42"
-		(at 123.19 140.97 180)
+		(at 123.19 151.13 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4962,7 +4962,7 @@
 		(uuid "792b6064-5a8d-4f9f-aca9-34a2e3db2fb4")
 	)
 	(label "latched12"
-		(at 64.77 91.44 0)
+		(at 64.77 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4972,7 +4972,7 @@
 		(uuid "7d0b6bfd-a9c3-47da-9f10-80150f855a62")
 	)
 	(label "write30"
-		(at 123.19 41.91 180)
+		(at 123.19 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4982,7 +4982,7 @@
 		(uuid "7d1a19ab-57f6-4256-b545-cb999ab6de71")
 	)
 	(label "write6"
-		(at 39.37 41.91 180)
+		(at 39.37 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4992,7 +4992,7 @@
 		(uuid "7e65ab72-5cfd-45d0-aa8f-e4c4f438316c")
 	)
 	(label "latched42"
-		(at 148.59 140.97 0)
+		(at 148.59 151.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5002,7 +5002,7 @@
 		(uuid "7f96c09b-317f-466a-b781-abde21c6ce30")
 	)
 	(label "latched0"
-		(at 64.77 26.67 0)
+		(at 64.77 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5012,7 +5012,7 @@
 		(uuid "7fa0e405-d685-4938-b7a4-40f9e452fb6f")
 	)
 	(label "latched31"
-		(at 148.59 44.45 0)
+		(at 148.59 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5022,7 +5022,7 @@
 		(uuid "816216d2-321d-4268-8642-767203ff2193")
 	)
 	(label "latched32"
-		(at 148.59 81.28 0)
+		(at 148.59 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5032,7 +5032,7 @@
 		(uuid "8251e92c-93fc-4fd7-87a7-4cd28e8613b4")
 	)
 	(label "write44"
-		(at 123.19 146.05 180)
+		(at 123.19 135.89 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5042,7 +5042,7 @@
 		(uuid "8272d3e3-de29-4dba-96f8-16f4f35e174c")
 	)
 	(label "latched4"
-		(at 64.77 36.83 0)
+		(at 64.77 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5052,7 +5052,7 @@
 		(uuid "82ffb5c6-fa07-4586-a4f6-c92501ab8f29")
 	)
 	(label "latched14"
-		(at 64.77 96.52 0)
+		(at 64.77 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5062,7 +5062,7 @@
 		(uuid "85c6a5a6-bac4-40d1-9cc5-04de66d1275b")
 	)
 	(label "write20"
-		(at 39.37 146.05 180)
+		(at 39.37 153.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5072,7 +5072,7 @@
 		(uuid "87e21cc9-4085-4384-92f0-74dc7b4126e4")
 	)
 	(label "latched19"
-		(at 64.77 143.51 0)
+		(at 64.77 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5082,7 +5082,7 @@
 		(uuid "886308f9-b868-4025-858a-e23962b5f4f5")
 	)
 	(label "write39"
-		(at 123.19 99.06 180)
+		(at 123.19 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5092,7 +5092,7 @@
 		(uuid "88e3b6ee-80ed-4505-86d0-f6554cb826aa")
 	)
 	(label "write19"
-		(at 39.37 143.51 180)
+		(at 39.37 135.89 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5102,7 +5102,7 @@
 		(uuid "8b2a1208-9856-4454-8fd9-959ab2967a76")
 	)
 	(label "write14"
-		(at 39.37 96.52 180)
+		(at 39.37 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5112,7 +5112,7 @@
 		(uuid "8e900a38-69dd-420e-9ffe-1b8a429715c1")
 	)
 	(label "write28"
-		(at 123.19 36.83 180)
+		(at 123.19 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5122,7 +5122,7 @@
 		(uuid "99e59aee-a817-47e9-8d99-ebd0d914dda1")
 	)
 	(label "write60"
-		(at 209.55 91.44 180)
+		(at 209.55 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5132,7 +5132,7 @@
 		(uuid "99f877c2-5370-440c-8a81-8b5b2cb1fb38")
 	)
 	(label "write57"
-		(at 209.55 83.82 180)
+		(at 209.55 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5142,7 +5142,7 @@
 		(uuid "9a9612ac-7821-493c-819c-10c7192193e8")
 	)
 	(label "write58"
-		(at 209.55 86.36 180)
+		(at 209.55 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5152,7 +5152,7 @@
 		(uuid "9ac453f6-4506-46c9-a86f-7de4aae39af6")
 	)
 	(label "write3"
-		(at 39.37 34.29 180)
+		(at 39.37 26.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5162,7 +5162,7 @@
 		(uuid "9ad9c452-17af-44e4-a2c0-893da15bd365")
 	)
 	(label "latched41"
-		(at 148.59 138.43 0)
+		(at 148.59 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5172,7 +5172,7 @@
 		(uuid "9b480821-6c26-4e97-9a11-0933ca5b4a8e")
 	)
 	(label "write10"
-		(at 39.37 86.36 180)
+		(at 39.37 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5182,7 +5182,7 @@
 		(uuid "9cb98b98-ce4a-418c-8ebc-91595b7872e6")
 	)
 	(label "write5"
-		(at 39.37 39.37 180)
+		(at 39.37 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5192,7 +5192,7 @@
 		(uuid "9e161b49-7178-4cc9-a1e4-acab459a03cc")
 	)
 	(label "latched28"
-		(at 148.59 36.83 0)
+		(at 148.59 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5202,7 +5202,7 @@
 		(uuid "a1defc9d-9351-4306-8b6e-20c0074311ba")
 	)
 	(label "latched35"
-		(at 148.59 88.9 0)
+		(at 148.59 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5212,7 +5212,7 @@
 		(uuid "a33cf98b-72c5-42cb-b287-bf31053663c6")
 	)
 	(label "latched13"
-		(at 64.77 93.98 0)
+		(at 64.77 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5222,7 +5222,7 @@
 		(uuid "a408d7a6-d557-460c-bbea-6eb06f1112ea")
 	)
 	(label "write38"
-		(at 123.19 96.52 180)
+		(at 123.19 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5232,7 +5232,7 @@
 		(uuid "a441192e-7b74-4db0-a82c-4e9fac730bd3")
 	)
 	(label "latched7"
-		(at 64.77 44.45 0)
+		(at 64.77 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5242,7 +5242,7 @@
 		(uuid "a67be1d5-1945-4314-a924-202eac1009a1")
 	)
 	(label "write37"
-		(at 123.19 93.98 180)
+		(at 123.19 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5252,7 +5252,7 @@
 		(uuid "a72289fc-2065-46ea-ab38-6785654d42ed")
 	)
 	(label "latched8"
-		(at 64.77 81.28 0)
+		(at 64.77 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5262,7 +5262,7 @@
 		(uuid "a759e5b2-10bd-4df3-906e-a1f3e167cddc")
 	)
 	(label "latched1"
-		(at 64.77 29.21 0)
+		(at 64.77 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5272,7 +5272,7 @@
 		(uuid "ad32355a-e827-43cc-a867-273554902b6c")
 	)
 	(label "write49"
-		(at 209.55 29.21 180)
+		(at 209.55 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5282,7 +5282,7 @@
 		(uuid "b300c5e2-57e7-448d-9a87-5c2b5e34af2e")
 	)
 	(label "latched18"
-		(at 64.77 140.97 0)
+		(at 64.77 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5292,7 +5292,7 @@
 		(uuid "b369997d-5dd5-4792-91da-31c1ec69d413")
 	)
 	(label "write9"
-		(at 39.37 83.82 180)
+		(at 39.37 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5302,7 +5302,7 @@
 		(uuid "b3d5c454-3631-4162-8b2a-cb59a0996f70")
 	)
 	(label "write8"
-		(at 39.37 81.28 180)
+		(at 39.37 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5312,7 +5312,7 @@
 		(uuid "b5e42f15-9f57-45d2-9646-a26b428cc483")
 	)
 	(label "write54"
-		(at 209.55 41.91 180)
+		(at 209.55 31.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5322,7 +5322,7 @@
 		(uuid "b623d679-4105-4af5-bd51-27b92a4bc420")
 	)
 	(label "write52"
-		(at 209.55 36.83 180)
+		(at 209.55 26.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5332,7 +5332,7 @@
 		(uuid "b69881f2-a4eb-4ba3-b982-ed3c3acedeeb")
 	)
 	(label "write34"
-		(at 123.19 86.36 180)
+		(at 123.19 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5342,7 +5342,7 @@
 		(uuid "bb7cf1a6-ecf3-48e7-888e-54cedf832818")
 	)
 	(label "write25"
-		(at 123.19 29.21 180)
+		(at 123.19 31.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5352,7 +5352,7 @@
 		(uuid "bd42a1e7-7809-4182-8ad6-1a15f6a9ab57")
 	)
 	(label "write62"
-		(at 209.55 96.52 180)
+		(at 209.55 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5362,7 +5362,7 @@
 		(uuid "be2c6ea4-21d8-4ed6-847b-838d8cc13783")
 	)
 	(label "latched27"
-		(at 148.59 34.29 0)
+		(at 148.59 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5372,7 +5372,7 @@
 		(uuid "c2371ba5-2434-4478-9307-345387ee59cc")
 	)
 	(label "write13"
-		(at 39.37 93.98 180)
+		(at 39.37 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5382,7 +5382,7 @@
 		(uuid "c5696013-297c-40ee-b23f-24eb500128e7")
 	)
 	(label "latched21"
-		(at 64.77 148.59 0)
+		(at 64.77 151.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5392,7 +5392,7 @@
 		(uuid "c8b1b98b-ac9d-4e44-bb33-8fea1274d038")
 	)
 	(label "latched50"
-		(at 234.95 31.75 0)
+		(at 234.95 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5402,7 +5402,7 @@
 		(uuid "c8fc9209-59ab-4a17-85f4-7aca8ad77f2c")
 	)
 	(label "write18"
-		(at 39.37 140.97 180)
+		(at 39.37 138.43 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5412,7 +5412,7 @@
 		(uuid "c9551390-9a6e-407a-96a9-220812531547")
 	)
 	(label "latched55"
-		(at 234.95 44.45 0)
+		(at 234.95 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5422,7 +5422,7 @@
 		(uuid "caa23ecc-c14a-4cd8-b586-b89aeae3b580")
 	)
 	(label "write36"
-		(at 123.19 91.44 180)
+		(at 123.19 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5432,7 +5432,7 @@
 		(uuid "cb965029-6e80-4609-8995-03df8bc9dc4e")
 	)
 	(label "write29"
-		(at 123.19 39.37 180)
+		(at 123.19 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5442,7 +5442,7 @@
 		(uuid "cc2a3d0e-b44a-40a3-a4e0-9dbd4c028da4")
 	)
 	(label "latched61"
-		(at 234.95 93.98 0)
+		(at 234.95 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5452,7 +5452,7 @@
 		(uuid "d240dd5e-f53d-4035-ba2a-1d1d404c9dac")
 	)
 	(label "write41"
-		(at 123.19 138.43 180)
+		(at 123.19 148.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5462,7 +5462,7 @@
 		(uuid "d3c6caa9-5384-4709-855b-a6f743fb4ad8")
 	)
 	(label "latched57"
-		(at 234.95 83.82 0)
+		(at 234.95 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5472,7 +5472,7 @@
 		(uuid "d79f9c91-1604-48f7-bb25-f0be1cd8fce6")
 	)
 	(label "write43"
-		(at 123.19 143.51 180)
+		(at 123.19 153.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5482,7 +5482,7 @@
 		(uuid "dbdcc67a-304d-4bb7-9084-d17e5e2561b8")
 	)
 	(label "latched38"
-		(at 148.59 96.52 0)
+		(at 148.59 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5492,7 +5492,7 @@
 		(uuid "dc78c7ad-5612-4a8c-9dbe-68a7f21e2e5f")
 	)
 	(label "latched17"
-		(at 64.77 138.43 0)
+		(at 64.77 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5502,7 +5502,7 @@
 		(uuid "e345a880-7945-4819-a1b4-762a984983c9")
 	)
 	(label "write12"
-		(at 39.37 91.44 180)
+		(at 39.37 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5512,7 +5512,7 @@
 		(uuid "e7aeb575-e594-4be6-9695-a05de67c10e2")
 	)
 	(label "write11"
-		(at 39.37 88.9 180)
+		(at 39.37 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5522,7 +5522,7 @@
 		(uuid "ea1ac084-4677-4236-ba2e-9f523e327565")
 	)
 	(label "latched10"
-		(at 64.77 86.36 0)
+		(at 64.77 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5532,7 +5532,7 @@
 		(uuid "ee42913e-9f75-4064-924f-3877daeca91e")
 	)
 	(label "write63"
-		(at 209.55 99.06 180)
+		(at 209.55 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5542,7 +5542,7 @@
 		(uuid "efab242d-cc79-4747-ba24-78462e0cca70")
 	)
 	(label "latched6"
-		(at 64.77 41.91 0)
+		(at 64.77 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5552,7 +5552,7 @@
 		(uuid "f30ae089-b21f-475c-9a64-afca34671e46")
 	)
 	(label "write53"
-		(at 209.55 39.37 180)
+		(at 209.55 29.21 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5562,7 +5562,7 @@
 		(uuid "f5090eaa-6006-4f25-87bc-812e6c0903d7")
 	)
 	(label "write21"
-		(at 39.37 148.59 180)
+		(at 39.37 151.13 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5572,7 +5572,7 @@
 		(uuid "f5793b27-7773-47a7-8a50-2764dba854f5")
 	)
 	(label "latched20"
-		(at 64.77 146.05 0)
+		(at 64.77 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5582,7 +5582,7 @@
 		(uuid "f5f3ee00-67b0-4cde-8c47-25c14454353a")
 	)
 	(label "write17"
-		(at 39.37 138.43 180)
+		(at 39.37 140.97 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5592,7 +5592,7 @@
 		(uuid "f6e26b3b-ae34-468c-8547-b8c04be1ac83")
 	)
 	(label "latched43"
-		(at 148.59 143.51 0)
+		(at 148.59 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5602,7 +5602,7 @@
 		(uuid "f813450c-229d-41a4-9834-9d8f20f354ed")
 	)
 	(label "latched48"
-		(at 234.95 26.67 0)
+		(at 234.95 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5612,7 +5612,7 @@
 		(uuid "fa014937-36e4-4f6b-a4a3-0a3ac58e7761")
 	)
 	(label "write33"
-		(at 123.19 83.82 180)
+		(at 123.19 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5622,7 +5622,7 @@
 		(uuid "fb360d3d-b87b-4e7a-847c-42e073497508")
 	)
 	(label "write55"
-		(at 209.55 44.45 180)
+		(at 209.55 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5632,7 +5632,7 @@
 		(uuid "fbe51a78-85a0-4585-97dd-f5ac4a151ab9")
 	)
 	(label "latched40"
-		(at 148.59 135.89 0)
+		(at 148.59 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5642,7 +5642,7 @@
 		(uuid "fe4892e0-c9bd-4b14-ae8a-0f456b71807b")
 	)
 	(label "latched37"
-		(at 148.59 93.98 0)
+		(at 148.59 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
