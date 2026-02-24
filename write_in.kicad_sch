@@ -9928,7 +9928,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS00")
-		(at 110.49 72.39 0)
+		(at 41.91 139.7 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9937,7 +9937,7 @@
 		(fields_autoplaced yes)
 		(uuid "569df6a4-3365-4698-8633-3e2d9c4720d1")
 		(property "Reference" "U2"
-			(at 110.4817 63.5 0)
+			(at 41.9017 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9945,7 +9945,7 @@
 			)
 		)
 		(property "Value" "74LS00"
-			(at 110.4817 66.04 0)
+			(at 41.9017 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9953,7 +9953,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 110.49 72.39 0)
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9962,7 +9962,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls00"
-			(at 110.49 72.39 0)
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9971,7 +9971,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 110.49 72.39 0)
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10164,7 +10164,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS00")
-		(at 93.98 27.94 0)
+		(at 110.49 72.39 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10173,7 +10173,7 @@
 		(fields_autoplaced yes)
 		(uuid "6b060d60-cfde-4caa-8bd8-3db1154d7b12")
 		(property "Reference" "U2"
-			(at 93.9717 19.05 0)
+			(at 110.4817 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10181,7 +10181,7 @@
 			)
 		)
 		(property "Value" "74LS00"
-			(at 93.9717 21.59 0)
+			(at 110.4817 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10189,7 +10189,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 93.98 27.94 0)
+			(at 110.49 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10198,7 +10198,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls00"
-			(at 93.98 27.94 0)
+			(at 110.49 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10207,7 +10207,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 93.98 27.94 0)
+			(at 110.49 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11706,7 +11706,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS00")
-		(at 41.91 81.28 0)
+		(at 41.91 110.49 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11715,7 +11715,7 @@
 		(fields_autoplaced yes)
 		(uuid "b2a7edf1-0123-49f5-be0c-d5f66708c022")
 		(property "Reference" "U1"
-			(at 41.9017 72.39 0)
+			(at 41.9017 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11723,7 +11723,7 @@
 			)
 		)
 		(property "Value" "74LS00"
-			(at 41.9017 74.93 0)
+			(at 41.9017 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11731,7 +11731,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 41.91 81.28 0)
+			(at 41.91 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11740,7 +11740,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls00"
-			(at 41.91 81.28 0)
+			(at 41.91 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11749,7 +11749,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 41.91 81.28 0)
+			(at 41.91 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11947,7 +11947,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS00")
-		(at 41.91 110.49 0)
+		(at 41.91 81.28 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11956,7 +11956,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce4cd77b-8959-46b8-85d4-a3a359bc4f9d")
 		(property "Reference" "U1"
-			(at 41.9017 101.6 0)
+			(at 41.9017 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11964,7 +11964,7 @@
 			)
 		)
 		(property "Value" "74LS00"
-			(at 41.9017 104.14 0)
+			(at 41.9017 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11972,7 +11972,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 41.91 110.49 0)
+			(at 41.91 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11981,7 +11981,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls00"
-			(at 41.91 110.49 0)
+			(at 41.91 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11990,7 +11990,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 41.91 110.49 0)
+			(at 41.91 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12278,7 +12278,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS00")
-		(at 41.91 139.7 0)
+		(at 93.98 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12287,7 +12287,7 @@
 		(fields_autoplaced yes)
 		(uuid "f2ab8f30-c5c1-4dc3-a82a-0c9b58be96b0")
 		(property "Reference" "U2"
-			(at 41.9017 130.81 0)
+			(at 93.9717 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12295,7 +12295,7 @@
 			)
 		)
 		(property "Value" "74LS00"
-			(at 41.9017 133.35 0)
+			(at 93.9717 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12303,7 +12303,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 41.91 139.7 0)
+			(at 93.98 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12312,7 +12312,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls00"
-			(at 41.91 139.7 0)
+			(at 93.98 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12321,7 +12321,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 41.91 139.7 0)
+			(at 93.98 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
